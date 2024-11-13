@@ -9,7 +9,7 @@ Contents
 6. Portfolio
 7. Footer
 8. Page -> About
-9. Page -> Portfolio Item Type B 
+9. Page -> Portfolio Item Type A 
 10. Page -> Portolio Item Type B
 
 /**/
@@ -704,4 +704,6 @@ a:hover
     border: 5px solid #fff;
     border-left: none;
 }
+
+/**Page -> Portfolio Item Type B**/
 
