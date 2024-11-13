@@ -565,3 +565,143 @@ a:hover
 
 /**FOOTER**/
 
+.footer
+{
+    overflow: hidden;
+
+    padding: 10rem 0;
+
+    text-align: center;
+}
+
+.footer p
+{
+    font-size: 1.4rem;
+
+    display: inline-block;
+
+    margin: 0;
+    margin-right: 1.4em;
+
+    vertical-align: middle;
+    letter-spacing: .05em;
+
+    opacity: .85;
+}
+
+.footer i
+{
+    font-size: 2.6rem;
+    line-height: 2.4em;
+
+    display: inline-block;
+
+    width: 2.4em;
+
+    cursor: pointer;
+    vertical-align: middle;
+
+    color: #111;
+    border-radius: 100%;
+    background: #fff;
+}
+
+.footer p a
+{
+    font-weight: bold;
+}
+
+/**Page -> About**/
+
+.about
+{
+    margin: 20rem 0 5rem 0;
+}
+
+.about .container-fluid
+{
+    max-width: 900px;
+    padding: 0 30px;
+}
+
+.about h1
+{
+    margin-bottom: .6em;
+}
+
+.about h4
+{
+    margin-bottom: 1.4em;
+}
+
+.about p
+{
+    line-height: 2.4em;
+
+    margin-bottom: 1.6em;
+}
+
+.about .social-links
+{
+    margin: 3rem 0 4rem 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.about .social-links li
+{
+    font-size: 2rem;
+
+    display: inline-block;
+
+    margin-right: 1em;
+}
+
+.about h6
+{
+    margin-bottom: .6em;
+}
+
+/**Page -> Portfolio Item Type A**/
+
+.portfolio-item-a
+{
+    margin: 20rem 0 0 0;
+}
+
+.portfolio-item-a .container-fluid
+{
+    max-width: 900px;
+    padding: 0 30px;
+}
+
+.portfolio-item-a h1
+{
+    margin-bottom: .25em;
+}
+
+.portfolio-item-a h4
+{
+    margin-bottom: 1.8em;
+}
+
+.portfolio-item-a p
+{
+    line-height: 2.4em;
+
+    margin-bottom: 1.6em;
+}
+
+.portfolio-item-a .image-carousel
+{
+    margin-top: 6rem;
+}
+
+
+.portfolio-item-a .image-carousel .owl-item
+{
+    border: 5px solid #fff;
+    border-left: none;
+}
+
