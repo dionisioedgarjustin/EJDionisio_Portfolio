@@ -11,6 +11,8 @@ Contents
 8. Page -> About
 9. Page -> Portfolio Item Type A 
 10. Page -> Portolio Item Type B
+10. Page -> Portolio Item Type C
+10. Page -> Portolio Item Type D
 
 /**/
 
@@ -699,5 +701,41 @@ a:hover {
 }
 
 .portfolio-item-c img:last-child {
+  margin-bottom: 0;
+}
+
+/** 11. Page --> Portfolio Item Type D
+*******************************************************************/
+
+.portfolio-item-d {
+  margin: 20rem 0 0 0;
+}
+
+.portfolio-item-d .container-fluid {
+  max-width: 900px;
+  padding: 0 30px;
+}
+
+.portfolio-item-d h1 {
+  margin-bottom: 0.25em;
+}
+
+.portfolio-item-d h4 {
+  margin-bottom: 1.8em;
+}
+
+.portfolio-item-d p {
+  line-height: 2.4em;
+
+  margin-bottom: 4em;
+}
+
+.portfolio-item-d img {
+  margin-bottom: 8rem;
+
+  border: 5px solid #fff;
+}
+
+.portfolio-item-d img:last-child {
   margin-bottom: 0;
 }
